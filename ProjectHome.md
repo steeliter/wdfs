@@ -1,0 +1,1 @@
+wdfs is a webdav filesystem that makes it possible to mount a webdav share under linux, freebsd and apple mac os x. wdfs has some special features for accessing subversion repositories via webdav. it is based on fuse and neon.
